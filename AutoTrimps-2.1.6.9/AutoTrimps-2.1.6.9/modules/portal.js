@@ -95,6 +95,7 @@ function autoPortal() {
             if(!game.global.challengeActive) {
                 doPortal(autoTrimpSettings.AutoPortal.selected);
             }
+        case "Domination":
             break;
         default:
             break;
